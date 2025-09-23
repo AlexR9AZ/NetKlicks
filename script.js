@@ -1,7 +1,4 @@
-const myFirstVar = "Cinema Site(test)";
+console.log('NetKlicks');
 
-const myFunc = () => {
-    document.writeln(myFirstVar);
-}
-
-myFunc();
+const wrapper = document.querySelector('.content-cards');
+console.log(wrapper);
